@@ -10,3 +10,5 @@ Thank you for your suggestions!
 
 Name - Anshir Chaudhary
 Github - https://github.com/Anshir08
+Name - Jai Chhabra
+Github - https://github.com/jaichhabra
